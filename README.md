@@ -1,2 +1,2 @@
-# Project_X1
-It is an initial project
+# Project_X2-Crisis-Connect
+It is a Java Swing Project designed and inspired for Emergency Response Systems during Crisis
